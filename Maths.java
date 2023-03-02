@@ -1,4 +1,3 @@
-package College.OOM_Prac5;
 
 public class Maths {
 
