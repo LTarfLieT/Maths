@@ -1,4 +1,3 @@
-package College.OOM_Prac5;
 
 class TestMath {
     public static void main(String[] args ) {
